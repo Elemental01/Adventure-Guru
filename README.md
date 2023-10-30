@@ -1,6 +1,6 @@
 # Adventure Guru
 
-![Adventure Guru Logo](link-to-your-logo.png)
+![https://th.bing.com/th/id/R.d4858fd1d4664a86bcf06733e56608d7?rik=9tYyqKpu3%2bRbeg&riu=http%3a%2f%2fimages.clipartpanda.com%2flocation-icon-map-png-location_icon.png&ehk=I5S%2f%2fjaEwkDEVZ0bh0vY%2fDu911CoYhIbv4EFi5bbhww%3d&risl=&pid=ImgRaw&r=0](link-to-your-logo.png)
 
 ## Table of Contents
 
